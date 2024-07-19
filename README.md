@@ -1,4 +1,4 @@
-# Código Média Aritmética em Java
+# Código da Média Aritmética em Java
 ---
 __Estudando java e descobrindo um novo mundo.__ 
 ```
